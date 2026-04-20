@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Off Base Access List
- * Version: 1.0.0
+ * Version: 1.0.1
  * Plugin URI: https://offbase.com/
  * Description: A access list plugin to allow access to certain areas of a WordPress instance.
  * Author: Off Base

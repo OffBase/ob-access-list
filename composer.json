@@ -4,7 +4,7 @@
   "description": "This plugin adds the ability to add locations that require an access list.",
   "homepage": "https://offbase.com",
   "license": "GPL-2.0+",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "require": {
     "php": ">=8.0"
   }
